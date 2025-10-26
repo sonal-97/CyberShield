@@ -4,7 +4,7 @@ Entry point for CyberShield AI deployment
 This file imports the main application for deployment platforms
 """
 
-from cyber_deploy import app
+from malware_detection_fyp.cyber_deploy import app
 
 if __name__ == '__main__':
     import os

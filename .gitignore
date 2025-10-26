@@ -43,9 +43,9 @@ temp_uploads/
 *.tmp
 
 # Model files (too large for git)
-models/*.h5
-models/*.keras
-models/*.json
+# models/*.h5
+# models/*.keras
+# models/*.json
 
 # Data files
 data/
